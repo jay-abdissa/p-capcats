@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .customization {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .game-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pet {
+    width: 100px;
+    height: 100px;
+    background-color: #ff5733;
+  }
+  
