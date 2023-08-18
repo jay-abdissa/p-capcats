@@ -1,0 +1,18 @@
+Languages to Use:
+  HTML
+  CSS
+  Javascript
+  PHP
+  SQL?
+
+Frameworks to Use:
+  TBA
+
+Stuff to work on:
+  - User Creation, Authentication & profiles
+  - Progress Tracking & Leaderboards
+  - Home Screen
+  - Character Customisation and Animations
+  - Background customisation
+  - Game Assets
+  - Multiplayer?
