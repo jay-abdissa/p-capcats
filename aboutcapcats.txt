@@ -1,0 +1,57 @@
+Languages to Use:
+  HTML
+  CSS
+  Javascript
+  PHP
+  SQL?
+
+Frameworks to Use:
+  TBA
+
+Stuff to work on:
+  - User Creation, Authentication & profiles
+  - Progress Tracking & Leaderboards
+  - Home Screen
+  - Character Customisation and Animations
+  - Background customisation
+  - Game Assets
+  - Multiplayer?
+
+Creating a platform similar to Picrew, where users can customize avatars through various options, involves several technical components and steps. Here's a high-level overview of the process:
+
+Front-End Development:
+
+HTML: Create the basic structure of your web page.
+CSS: Style the elements of your avatar customization interface.
+JavaScript: Implement interactivity and handle user selections.
+Avatar Customization:
+
+Design the avatar components (hairstyles, clothes, accessories, etc.).
+Slice the components into separate image files to be layered.
+User Interface (UI):
+
+Create UI elements for selecting different avatar features.
+Implement drag-and-drop or click-to-select interactions for adding components to the avatar.
+Image Layering:
+
+Use CSS or JavaScript to layer the selected avatar components.
+Adjust the positioning and z-index of each component to create the desired appearance.
+Saving the Avatar:
+
+Allow users to save their customized avatars as image files.
+Implement a function to merge and render the layered components into a single image.
+Backend (Optional):
+
+Set up a backend server to handle user accounts, avatars, and data storage.
+Use a server-side language like PHP, Node.js, or Python.
+Database (Optional):
+
+Store user avatars, customization preferences, and other relevant data.
+Use a database system like MySQL, PostgreSQL, or MongoDB.
+User Authentication (Optional):
+
+Implement user registration and login functionality.
+Securely manage user accounts and authentication tokens.
+Deployment:
+
+Host your application on a web server or a cloud platform like AWS, Heroku, or Netlify.
